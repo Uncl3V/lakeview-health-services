@@ -1,2 +1,2 @@
 # lakeview-health-services
-LHSL websie
+LHSL website
